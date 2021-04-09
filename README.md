@@ -1,6 +1,8 @@
 Principles
 --
+一种简单易懂的 MyBatis 分库分表方案 https://zhuanlan.zhihu.com/p/58815135 
 Explicit is better than Implicit!
+
 
 
 ```java
